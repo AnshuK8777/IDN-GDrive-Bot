@@ -4,7 +4,7 @@ class config:
     API_HASH = "52102f76ad963d710d42caf7e8e2324b"
     DATABASE_URL = "mongodb+srv://a4anshu:8ijn9okm0pl@cluster0.krkhtcl.mongodb.net/?retryWrites=true&w=majority"
     SUDO_USERS = "" # Separated by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "t.me/aksupirt"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
