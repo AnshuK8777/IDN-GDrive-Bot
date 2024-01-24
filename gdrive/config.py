@@ -1,8 +1,8 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
+    BOT_TOKEN = "6735872089:AAEIhcAvPd7nTvl2q8I0AP9F-WFwAG9IzFY"
+    APP_ID = "1013966"
+    API_HASH = "52102f76ad963d710d42caf7e8e2324b"
+    DATABASE_URL = "mongodb+srv://a4anshu:8ijn9okm0pl@cluster0.krkhtcl.mongodb.net/?retryWrites=true&w=majority"
     SUDO_USERS = "" # Separated by space.
     SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
